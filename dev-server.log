@@ -1,0 +1,21 @@
+
+> konde-keerthi-portfolio@1.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.8s
+ ○ Compiling / ...
+ ✓ Compiled /_not-found in 9.4s (547 modules)
+ GET / 200 in 9732ms
+ GET /projects 404 in 8724ms
+ GET / 200 in 47ms
+ ✓ Compiled /contact in 240ms (551 modules)
+ ✓ Compiled /about in 171ms (553 modules)
+ ✓ Compiled /skills in 246ms (557 modules)
+ ✓ Compiled /tools in 251ms (561 modules)
+ GET / 200 in 14794ms
+ ○ Compiling /learning ...
+ ✓ Compiled /learning in 20.9s (561 modules)
